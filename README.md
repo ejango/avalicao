@@ -27,3 +27,5 @@ Of course substituting `Program Files` for `Program Files (x86)` where necessary
 - Visual Studio 2012 = 11.0
 - Visual Studio 2013 = 12.0
 ===============================================
+
+Release Candidate
