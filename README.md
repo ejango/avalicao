@@ -29,3 +29,4 @@ Of course substituting `Program Files` for `Program Files (x86)` where necessary
 ===============================================
 
 Release Candidate
+release-1.1.0
