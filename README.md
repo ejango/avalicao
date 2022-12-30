@@ -28,6 +28,5 @@ Of course substituting `Program Files` for `Program Files (x86)` where necessary
 - Visual Studio 2013 = 12.0
 ===============================================
 
-Mais alterações
-
-+++++++++++++++++++++++++++++++++++++++++++++++
+Release Candidate
+release-1.1.0
